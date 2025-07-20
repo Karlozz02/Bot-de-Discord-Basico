@@ -1,1 +1,3 @@
 # Bot-de-Discord-Basico
+
+PRONTO ESTARA DISPONIBLE EL CODIGO...
